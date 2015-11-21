@@ -1,2 +1,2 @@
-# leetcode
-Record the code of leetcode
+# leetcode-java
+Record my solution for LeetCode
